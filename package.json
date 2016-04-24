@@ -1,0 +1,19 @@
+{
+  "name": "relmap",
+  "version": "1.0.0",
+  "description": "Relational maps for javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://jeanfredrik@github.com/jeanfredrik/relmap.git"
+  },
+  "author": "Fredrik Johansson <jeanfredrik@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jeanfredrik/relmap/issues"
+  },
+  "homepage": "https://github.com/jeanfredrik/relmap#readme"
+}
